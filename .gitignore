@@ -7,7 +7,9 @@
 *.obj
 *.elf
 
-# Linker output
+l2t1
+
+# Linked output
 *.ilk
 *.map
 *.exp
