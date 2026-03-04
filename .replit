@@ -5,4 +5,4 @@ run = "gcc -o l2t1 /home/runner/project2/src/main.c"
 expertMode = true
 
 [nix]
-packages = ["vim"]
+packages = ["vim", "nano"]
